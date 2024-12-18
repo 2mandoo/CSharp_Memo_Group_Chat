@@ -1,4 +1,7 @@
 # CSharp_Memo_Group_Chat
+![CSharp](https://camo.githubusercontent.com/16113eb52d90f59b94c5c47d0a7937d2765f9a2a21853e76a6a82234397b6e33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353686172702d3643343746463f7374796c653d666c6174266c6f676f3d43706c7573706c7573266c6f676f436f6c6f723d7768697465)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+<code>WinForm</code>
 
 C#과 WinForms를 사용하여 제작된 간단한 단체 채팅방 애플리케이션입니다.
 
